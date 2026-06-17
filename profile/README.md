@@ -8,8 +8,7 @@ interactive tools.
 ## What we do
 
 - 📊 **Election forecasting** — Probabilistic models for elections across the
-  United States, United Kingdom, and Australia, including the 2026 U.S.
-  midterms and California state races.
+  United States, United Kingdom, and Australia, including the 2026 U.S. midterms.
 - 🗺️ **Redistricting & demographics** — District-level data and a swingometer
   for exploring how shifting electorates move seats.
 - 🕹️ **Political simulation** — Interactive tools for modeling election scenarios.
